@@ -17,3 +17,4 @@ while True:
         print()
     except:
         break
+# 空格可以用.strip去掉
